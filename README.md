@@ -1,4 +1,4 @@
-# Numpy-Lesson
+# numpy
 
 Các bài thực hành sử dụng module numpy (ứng dụng ML)
 
@@ -16,7 +16,7 @@ import module :
 import numpy as np
 ```
 
-> **Lession**  
+> **Lesson**  
 
 [Lesson-1: Array trong numpy](./lesson-1.ipynb)
 
