@@ -2,12 +2,11 @@
 
 Các bài thực hành sử dụng module numpy (ứng dụng ML)
 
-## Cài đặt
-
+> **Cài đặt**
 Tải numpy thông qua pip
 
 ```python
-pip3 install numpy
+pip3 install -U numpy
 ```
 
 import module :
@@ -16,14 +15,16 @@ import module :
 import numpy as np
 ```
 
-## Array trong numpy
+> **Lession**  
 
-## Cộng trừ nhân chia với array
+[Lesson-1: Array trong numpy](./lesson-1.ipynb)
 
-## Biến đổi với shape, reshape
+[Lesson-2: Cộng trừ nhân chia với array](./lesson-2.ipynb)
 
-## Truy cập đến các phần tử
+[Lesson-3: Biến đổi với shape, reshape](./lesson-3.ipynb)
 
-## Func & array
+[Lesson-4: Truy cập đến các phần tử](./lesson-4.ipynb)
 
-## Khác: Các method
+[Lesson-5: Func & array](./lesson-5.ipynb)
+
+[Lesson-6: Khác: Các method](./lesson-6.ipynb)
