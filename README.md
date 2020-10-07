@@ -2,7 +2,8 @@
 
 Các bài thực hành sử dụng module numpy (ứng dụng ML)
 
-> **Cài đặt**
+> **Cài đặt**  
+
 Tải numpy thông qua pip
 
 ```python
